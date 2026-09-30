@@ -265,6 +265,8 @@ Jivan AI is designed with patient privacy in mind.
 ✅ No Patient Data Transmission  
 ✅ Local Inference with Ollama
 
+For security reporting and policies, see [SECURITY.md](SECURITY.md).
+
 ---
 
 ## 🎨 Custom UI Features
